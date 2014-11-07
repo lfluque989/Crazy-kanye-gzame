@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.4" PGFVersion="0.19" title="My Great Project">
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>0</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id755720" />
+    <actor id="id424813" />
+    <actor id="id911554" />
+    <actor id="id311410" />
+    <actor id="id675153" />
+    <actor id="id454479" />
+    <actor id="id605339" />
+    <actor id="id429077" />
+    <actor id="id652015" />
+    <actor id="id485638" />
+    <actor id="id301881" />
+    <actor id="id246290" />
+    <actor id="id627524" />
+    <actor id="id570576" />
+    <actor id="id231942" />
+    <actor id="id431677" />
+    <actor id="id307285" />
+    <actor id="id771090" />
+    <actor id="id141516" />
+    <actor id="id149169" />
+    <actor id="id297518" />
+    <actor id="id841684" />
+    <actor id="id569755" />
+    <actor id="id908903" />
+    <actor id="id158312" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id316166" />
+    <scene id="id673156" />
+    <scene id="id738875" />
+    <scene id="id110212" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags" />
+    <table id="id792956" name="Table 1">Table 1</table>
+  </attributes>
+</game>
